@@ -10,8 +10,6 @@
   },
   "scripts": {
     "start": "node index.js --self",
-    "prepack": "tsc",
-    "build:tsc": "tsc",
     "test": "node test.js"
   },
   "repository": {
