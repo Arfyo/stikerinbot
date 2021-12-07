@@ -6,8 +6,8 @@
   "directories": {
     "lib": "lib",
     "src": "src",
-    "plugins": "plugins"
     "prepack": "tsc",
+    "plugins": "plugins"
   },
   "scripts": {
     "start": "node index.js --self",
