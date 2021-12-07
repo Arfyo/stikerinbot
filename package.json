@@ -7,6 +7,7 @@
     "lib": "lib",
     "src": "src",
     "plugins": "plugins"
+    "prepack": "tsc",
   },
   "scripts": {
     "start": "node index.js --self",
